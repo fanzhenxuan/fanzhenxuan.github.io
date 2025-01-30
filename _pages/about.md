@@ -26,6 +26,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
+  <li><strong style="font-family: Consolas;">[01/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICLR'25:</b> "Image-level Memorization Detection via Inversion-based Inference Perturbation." [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[11/2024]</strong>  🚀 <b style="color: rgb(231, 165, 65);">Award:</b> Delighted to have received the First Prize in the 2024 Graduate Academic Forum at UCAS!</li>
   <li><strong style="font-family: Consolas;">[11/2024]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "DOGE: Towards Versatile Visual Document Grounding and Referring." [<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[11/2024]</strong>  🚀 <b style="color: rgb(231, 165, 65);">Award:</b> Honored to be selected as a Top Reviewer at NeurIPS 2024!</li>
@@ -58,6 +59,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <br>
       <i>in 38th Conference on Neural Information Processing Systems (<b>NeurIPS 2024 Oral</b>)</i>. 
       <br>
+      [<a href="https://arxiv.org/pdf/2406.01721">PDF</a>]
       [<a href="https://arxiv.org/pdf/2406.01721">arXiv</a>]
       [<a href="https://duquant.github.io/">Project</a>]
       [<a href="https://github.com/Hsu1023/DuQuant">Github</a>]
@@ -82,6 +84,23 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       [<a href="https://arxiv.org/pdf/2403.07839">PDF</a>]
       [<a href="https://arxiv.org/abs/2403.07839">arXiv</a>] 
       [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:8JMVX1X1EywJ:scholar.google.com/&output=citation&scisdr=ClG9GyJpEN-gr-AVcyM:AFWwaeYAAAAAZ1gTayNSVuBvHTat9NYvvUWKl1I&scisig=AFWwaeYAAAAAZ1gTa2N0QuCB1EVIvzpPzLM_jJ4&scisf=4&ct=citation&cd=-1&hl=zh-CN">bibtex</a>]
+    </td>
+  </tr>
+
+  <tr>
+    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <a href="images/.png">
+      <img src='images/.png' width="300">
+      </a>
+    </td> -->
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+       <b>Image-level Memorization Detection via Inversion-based Inference Perturbation.</b> 
+      <br>
+      Yue Jiang*, <u>Haokun Lin*</u>, Yang Bai, Bo Peng, Zhili Liu, Yueming Lyu, Yong Yang, Xing Zheng, Jing Dong,
+      <br>
+      <i>in 13th International Conference on Learning Representations (<b>ICLR 2025</b>)</i>. 
+      <br>
+      [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]
     </td>
   </tr>
 
@@ -119,7 +138,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <br>
       Yingtao Zhang, Haoli Bai, <u>Haokun Lin</u>, Jialin Zhao, Lu Hou, Carlo Vittorio Cannistraci,
       <br>
-      <i>in 18th International Conference on Learning Representations (<b>ICLR 2024</b>)</i>. 
+      <i>in 12th International Conference on Learning Representations (<b>ICLR 2024</b>)</i>. 
       <br>
       [<a href="https://openreview.net/pdf?id=Tr0lPx9woF">PDF</a>]
       [<a href="https://openreview.net/forum?id=Tr0lPx9woF">OpenReview</a>]

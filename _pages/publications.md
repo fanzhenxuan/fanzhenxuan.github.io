@@ -61,6 +61,23 @@ author_profile: true
 
   <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>Image-level Memorization Detection via Inversion-based Inference Perturbation.</b> 
+      <br>
+      Yue Jiang*, <u>Haokun Lin*</u>, Yang Bai, Bo Peng, Zhili Liu, Yueming Lyu, Yong Yang, Xing Zheng, Jing Dong,
+      <br>
+      <i>in 13th International Conference on Learning Representations (<b>ICLR 2025</b>)</i>. 
+      <br>
+      [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]
+    </td>
+    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/.png">
+      <img src='/images/.png' width="300">
+      </a>
+    </td> -->
+  </tr>
+
+  <tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>MATHVERSE: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?</b> 
       <br>
       Renrui Zhang*, Dongzhi Jiang*, Yichi Zhang*, <u>Haokun Lin</u>, Ziyu Guo, Pengshuo Qiu, Aojun Zhou, Pan Lu, Kai-Wei Chang, Peng Gao, Hongsheng Li,
@@ -88,7 +105,7 @@ author_profile: true
       <br>
       Yingtao Zhang, Haoli Bai, <u>Haokun Lin</u>, Jialin Zhao, Lu Hou, Carlo Vittorio Cannistraci,
       <br>
-      <i>in 18th International Conference on Learning Representations (<b>ICLR 2024</b>)</i>. 
+      <i>in 12th International Conference on Learning Representations (<b>ICLR 2024</b>)</i>. 
       <br>
       [<a href="https://openreview.net/pdf?id=Tr0lPx9woF">PDF</a>]
       [<a href="https://openreview.net/forum?id=Tr0lPx9woF">OpenReview</a>]
