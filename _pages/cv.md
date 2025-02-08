@@ -32,7 +32,7 @@ redirect_from:
 
 ## Services
 - Invited Reviewer:
-  - EMNLP'2023, NeurIPS'2024, ICLR'2025, CVPR'2025, AISTATS'2025.
+  - EMNLP'2023, NeurIPS'2024, ICLR'2025, CVPR'2025, AISTATS'2025, ICDE'2025, ICML'2025.
   <!-- - AIM-FM workshop@NeurIPS'2024. -->
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
   - Transactions on Machine Learning Research (TMLR).

@@ -123,9 +123,9 @@ author_profile: true
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>IntactKV: Improving Large Language Model Quantization by Keeping Pivot Tokens Intact.</b>
       <br>
-      Ruikang Liu, Haoli Bai, <u>Haokun Lin</u>, Yuening Li, Han Gao, Zhengzhuo Xu, Lu Hou, Jun Yao, Chun Yuan.
+      Ruikang Liu, Haoli Bai, <u>Haokun Lin</u>, Yuening Li, Han Gao, Zhengzhuo Xu, Lu Hou, Jun Yao, Chun Yuan,
       <br>
-      <i>In Findings of 62nd Annual Meeting of the Association for Computational Linguistics (<b>ACL 2024 Findings</b>)</i>
+      <i>in Findings of 62nd Annual Meeting of the Association for Computational Linguistics (<b>ACL 2024 Findings</b>)</i>
       <br>
       [<a href="https://arxiv.org/pdf/2403.01241">PDF</a>]
       [<a href="https://arxiv.org/abs/2403.01241">arXiv</a>]
