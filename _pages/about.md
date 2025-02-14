@@ -11,7 +11,7 @@ redirect_from:
 
 
 I'm a Ph.D. candidate at [New Laboratory of Pattern Recognition (NLPR)](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), [Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/) under the supervision of [Prof. Zhenan Sun](http://www.cbsr.ia.ac.cn/users/znsun/). I'm also a joint Ph.D. candidate at [Department of Computer Science](https://www.cs.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/), working with [Prof. Ying Wei](https://wei-ying.net/). 
-Before joining CASIA, I received both my B.Eng. in Software Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) in 2021.
+Before joining CASIA, I received my B.Eng. in Software Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) in 2021.
  
 
 My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Language/Vision Models</u>**, and **<u>Efficient Deep Learning</u>**.
@@ -26,6 +26,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
+  <li><strong style="font-family: Consolas;">[02/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TMM:</b> "Scale Up Composed Image Retrieval Learning via Modification Text Generatio."</li>
   <li><strong style="font-family: Consolas;">[01/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICLR'25:</b> "Image-level Memorization Detection via Inversion-based Inference Perturbation." [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[11/2024]</strong>  🚀 <b style="color: rgb(231, 165, 65);">Award:</b> Delighted to have received the First Prize in the 2024 Graduate Academic Forum at UCAS!</li>
   <li><strong style="font-family: Consolas;">[11/2024]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "DOGE: Towards Versatile Visual Document Grounding and Referring." [<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]</li>
@@ -36,7 +37,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   <li><strong style="font-family: Consolas;">[02/2024]</strong>  🎉  <b style="color: rgb(231, 165, 65);">CVPR'24:</b> "MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric." [<a href="https://arxiv.org/pdf/2403.07839">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[01/2024]</strong>  🎉  <b style="color: rgb(231, 165, 65);">ICLR'24:</b> "Plug-and-Play: An Efficient Post-training Pruning Method for Large Language Models." [<a href="https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning">Code</a>/<a href="https://openreview.net/pdf?id=Tr0lPx9woF">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[03/2022]</strong>  🎓 <b style="color: rgb(231, 165, 65);">Starting Joint Ph.D.@CityU:</b> I will join Prof. <a href="https://wei-ying.net/">Ying Wei</a>'s group at CityU in 2022 Fall!</li>
-  <li><strong style="font-family: Consolas;">[03/2022]</strong>  🎓 <b style="color: rgb(231, 165, 65);">Starting Ph.D.@CASIA:</b> I will join Prof. <a href="http://www.cbsr.ia.ac.cn/users/znsun/">Zhenan Sun</a>'s group at NLPR, CASIA in 2021 Fall!</li>
+  <li><strong style="font-family: Consolas;">[09/2021]</strong>  🎓 <b style="color: rgb(231, 165, 65);">Starting Ph.D.@CASIA:</b> I will join Prof. <a href="http://www.cbsr.ia.ac.cn/users/znsun/">Zhenan Sun</a>'s group at NLPR, CASIA in 2021 Fall!</li>
   <li><strong style="font-family: Consolas;">[06/2021]</strong>  🎓 <b style="color: rgb(231, 165, 65);">Graduation@HUST:</b> Recieved my Bachelor's Degree from Huazhong University of Science and Technology with Honorary degree.</li>
 </ul>
 </div>
