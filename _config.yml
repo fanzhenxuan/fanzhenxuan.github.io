@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haokun Lin (林浩坤)"
+title                    : "Zhenxuan Fan (范振璇)"
 title_separator          : "-"
-name                     : &name "Haokun Lin"
+name                     : &name "Zhenxuan Fan"
 description              : &description "Welcome to my homepage!"
 url                      : "https://felixmessi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,19 +80,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haokun Lin"
+  name             : "Zhenxuan Fan"
   avatar           : "https://felixmessi.github.io/images/haokunlin.png"
-  bio              : "Ph.D. Student"
-  location         : "Hong Kong SAR"
-  employer         : "Institue of Automation, CAS"
-  employer_site    : "https://english.ia.cas.cn/"
-  employer2         : "City University of Hong Kong"
-  employer2_site    : "https://www.cityu.edu.hk/"
+  bio              : "undergraduate student"
+  location         : "Shenyang, China"
+  employer         : "Northeastern University(China)"
+  employer_site    : "https://www.neu.edu.cn/"
+  employer2         : 
+  employer2_site    : 
   cv               :
   zhihu            :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7DnpUlIAAAAJ"
-  email            : haokun.lin@cripac.ia.ac.cn
+  email            : fzx0228@gmail.com
   researchgate     : 
   uri              : "https://felixmessi.github.io"
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FelixMessi"
+  github           : "FFFFFzx"
   google_plus      :
   keybase          :
   instagram        :
