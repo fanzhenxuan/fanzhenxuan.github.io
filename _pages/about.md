@@ -23,7 +23,7 @@ My research interests is **<u>Large Language Models</u>**.
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
-  <li><strong style="font-family: Consolas;">[06/2021]</strong>  🎓 <b style="color: rgb(231, 165, 65);">Graduation@HUST:</b> Recieved my Bachelor's Degree from Huazhong University of Science and Technology with Honorary degree.</li>
+ 
 </ul>
 </div>
 
