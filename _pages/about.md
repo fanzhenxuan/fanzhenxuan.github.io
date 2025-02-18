@@ -11,7 +11,7 @@ redirect_from:
 
 **你好! / Hello! / 안녕하세요! / こんにちは! / Здравствуй! / Bonjour! / Guten Tag! / Hola! / Ciao! / السلام عليكم!**
 
-I'm a senior undergraduate student from [Software Colleage](https://sc.neu.edu.cn/), [Northeastern University](https://english.neu.edu.cn/). In September 2025, I will begin pursuing a master's degree at the [School of Software Technology](http://www.cst.zju.edu.cn/), [Zhejiang University](https://english.neu.edu.cn/), under the guidance of [Prof. Wenqiao Zhang](https://person.zju.edu.cn/wenqiao).
+I'm a senior undergraduate student from [Software Colleage](https://sc.neu.edu.cn/), [Northeastern University (China)](https://english.neu.edu.cn/). In September 2025, I will begin pursuing a master's degree at the [School of Software Technology](http://www.cst.zju.edu.cn/), [Zhejiang University](https://english.neu.edu.cn/), under the guidance of [Prof. Wenqiao Zhang](https://person.zju.edu.cn/wenqiao).
 
 My research interests is **<u>Large Language Models</u>**.
 
