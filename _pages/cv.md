@@ -12,11 +12,10 @@ redirect_from:
 
 ## Education
 
-* M.Eng. in Computer Science, [Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/), 2025 - present
+* M.Eng. in Computer Science, [Zhejiang University](https://www.zju.edu.cn/english/), 2025 - present
   * Supervisor: Prof. [Wenqiao Zhang](https://person.zju.edu.cn/wenqiao)
 * B.Eng. in Information Security, [Northeastern University](https://english.neu.edu.cn/), 2021 - 2025
   * GPA: 4.15/5.0, Ave. Score: 91.53/100
-
 
 
 ## Honors and Awards
