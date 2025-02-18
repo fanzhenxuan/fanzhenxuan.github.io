@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-### See full list at [Google Scholar](https://scholar.google.com/citations?user=7DnpUlIAAAAJ). ($\*$: co-first author;  ^: corresponding author)
+### See full list at [Google Scholar]. ($\*$: co-first author;  ^: corresponding author)
 
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   
