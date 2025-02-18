@@ -12,12 +12,10 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/), 2022 - present
-  * Supervisor: Prof. [Ying Wei](https://wei-ying.net/)
-* Ph.D. in Computer Science, [Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/), 2021 - present
-  * Supervisor: Prof. [Zhenan Sun](http://www.cbsr.ia.ac.cn/users/znsun/)
-* B.Eng. in Software Engineering, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), 2017 - 2021
-  * GPA: 3.90/4.0, Ave. Score: 90.00/100
+* M.Eng. in Computer Science, [Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/), 2025 - present
+  * Supervisor: Prof. [Wenqiao Zhang](https://person.zju.edu.cn/wenqiao)
+* B.Eng. in Information Security, [Northeastern University](https://english.neu.edu.cn/), 2021 - 2025
+  * GPA: 4.15/5.0, Ave. Score: 91.53/100
 
 
 
