@@ -19,13 +19,13 @@ redirect_from:
 
 
 ## Honors and Awards
-- *2024.12*  First Prize, 2024 Graduate Academic Forum, University of Chinese Academy of Sciences.
-- *2024.11*  NeurIPS 2024 Top Reviewer Award.
-- *2021.06*  Honorary degree of HUST, Top 2%, Highest Honour for Undergraduate.
-- *2020.10*  National Scholarship, P.R.China, HUST, Undergraduate Students.
-- *2018-2020*  First prize, HUST Excellent Undergraduate Scholarship.
-<!-- - *2016.10* Second prize, National (Senior) High School Mathematical Competition of China. -->
-   
+- *2024.11* Outstanding Individual with Academic and Special Talents at NEU.
+- *2024.11* National Scholarship, P.R.China, NEU, Undergraduate Students.
+- *2024.09* Second prize, Excellent Undergraduate Scholarship of NEU.
+- *2023.11* Intelligent Grinding Technology Scholarship.
+- *2023.10* Outstanding Student of NEU.
+- *2023.09* Second prize, Excellent Undergraduate Scholarship of NEU.
+- *2022.09* Third prize, Excellent Undergraduate Scholarship of NEU.
 
 ## Services
 - Invited Reviewer:
