@@ -41,13 +41,13 @@ My research interests is **<u>Large Language Models</u>**.
 
 
 # 🏆 Honors and Awards
-- *2024.11*      Outstanding Individual with Academic and Special Talents at NEU.
-- *2024.11*   National Scholarship, P.R.China, NEU, Undergraduate Students.
-- *2024.09*   Second prize, Excellent Undergraduate Scholarship of NEU.
-- *2023.11*   Intelligent Grinding Technology Scholarship.
-- *2023.10*   Outstanding Student of NEU.
-- *2023.09*   Second prize, Excellent Undergraduate Scholarship of NEU.
-- *2022.09*   Third prize, Excellent Undergraduate Scholarship of NEU.
+- *2024.11* Outstanding Individual with Academic and Special Talents at NEU.
+- *2024.11* National Scholarship, P.R.China, NEU, Undergraduate Students.
+- *2024.09* Second prize, Excellent Undergraduate Scholarship of NEU.
+- *2023.11* Intelligent Grinding Technology Scholarship.
+- *2023.10* Outstanding Student of NEU.
+- *2023.09* Second prize, Excellent Undergraduate Scholarship of NEU.
+- *2022.09* Third prize, Excellent Undergraduate Scholarship of NEU.
 <!-- - *2016.10* Second prize, National (Senior) High School Mathematical Competition of China. -->
    
 
