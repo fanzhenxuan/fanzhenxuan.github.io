@@ -13,7 +13,7 @@ redirect_from:
 
 I'm a senior undergraduate student from [Software Colleage](https://sc.neu.edu.cn/), [Northeastern University (China)](https://english.neu.edu.cn/). In September 2025, I will begin pursuing a master's degree at the [School of Software Technology](http://www.cst.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/), under the guidance of [Prof. Wenqiao Zhang](https://person.zju.edu.cn/wenqiao).
 
-My research interests is **<u>Large Language Models</u>**.
+My research interests are **<u>Large Language Models</u>** and **<u>Multimodal Large Language Models</u>**.
 
 👋👋👋 If you're interested in my work, please feel free to reach out for discussions or collaborations!
 
