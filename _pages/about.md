@@ -19,7 +19,7 @@ My research focuses on **<u>efficient training and inference of large language m
 👋👋👋 If you're interested in my work, please feel free to reach out for discussions or collaborations!
 
 **Contact me via**:  
-📧 Mail: [fzx0228[AT]gmail.com](fzx0228@gmail.com)
+📧 Mail:[zxfan[AT]zju.edu.cn](zxfan@zju.edu.cn) / [fzx0228[AT]gmail.com](fzx0228@gmail.com)
 
 <h1 style="color: rgb(231, 65, 65);">🌈 What's new:</h1>
 
