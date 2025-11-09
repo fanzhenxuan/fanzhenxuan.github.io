@@ -28,7 +28,7 @@ My research focuses on **<u>efficient training and inference of large language m
 <ul>
 
   <li><strong style="font-family: Consolas;">[11/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">AAAI'26:</b> A paper has been accepted to AAAI 2026! 🔥🔥🔥 </li>
-  <li><strong style="font-family: Consolas;">[09/2025]</strong>  🎓 <b style="color: rgb(231, 165, 65);">Starting Master’s@ZJU:</b> I will join Academician <a href="https://ooibc88.github.io/">Beng Chin Ooi</a>'s <a href="https://www.nbdataxai.com/">group</a> at CST, ZJU in 2025 Fall!</li>
+  <li><strong style="font-family: Consolas;">[09/2025]</strong>  🎓 <b style="color: rgb(231, 165, 65);">Starting Master’s@ZJU:</b> I will join Academician <a href="https://ooibc88.github.io/">Beng Chin Ooi</a>'s <a href="https://www.nbdataxai.com/">group</a> at SST, ZJU in 2025 Fall!</li>
   <li><strong style="font-family: Consolas;">[06/2025]</strong>  🎓 <b style="color: rgb(231, 165, 65);">Graduation@NEU:</b> Received my Bachelor's degree from Northeastern University as an Outstanding Graduate.</li>
 
 </ul>
