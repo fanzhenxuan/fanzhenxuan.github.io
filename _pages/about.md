@@ -30,10 +30,10 @@ A paper has been accepted to AAAI 2026! 🎉
 [11/2024]  📜 Preprint: "DOGR: Towards Versatile Visual Document Grounding and Referring." [PDF]
   [11/2024]  🚀 Award: Honored to be selected as a Top Reviewer at NeurIPS 2024! -->
 
-<li><strong style="font-family: Consolas;">[11/2025]</strong>  🎉 A paper has been accepted to <b style="color: rgb(231, 165, 65);">AAAI'26:</b>! </li>
+<li><strong style="font-family: Consolas;">[11/2025]</strong>  🎉 A paper has been accepted to <b style="color: rgb(231, 165, 65);">AAAI'26</b>! 🔥🔥🔥 </li>
 
 
-</ul>
+
 </div>
 
 
