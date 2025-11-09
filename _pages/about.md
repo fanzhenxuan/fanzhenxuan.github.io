@@ -25,8 +25,14 @@ My research focuses on **<u>efficient training and inference of large language m
 
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
-<ul>
+<!-- <ul>
 A paper has been accepted to AAAI 2026! 🎉
+[11/2024]  📜 Preprint: "DOGR: Towards Versatile Visual Document Grounding and Referring." [PDF]
+  [11/2024]  🚀 Award: Honored to be selected as a Top Reviewer at NeurIPS 2024! -->
+
+<li><strong style="font-family: Consolas;">[01/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICLR'25:</b> "A paper has been accepted to AAAI 2026!" [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]</li>
+
+
 </ul>
 </div>
 
