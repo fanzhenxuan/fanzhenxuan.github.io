@@ -60,7 +60,6 @@ My research focuses on **<u>efficient training and inference of large language m
    
 
 # 🎖 Services
-- Invited Reviewer:
   
 
 # 💬 Talks
