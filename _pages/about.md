@@ -11,9 +11,10 @@ redirect_from:
 
 **你好! / Hello! / 안녕하세요! / こんにちは! / Здравствуй! / Bonjour! / Guten Tag! / Hola! / Ciao! / السلام عليكم!**
 
-I'm a senior undergraduate student from [Software Colleage](https://sc.neu.edu.cn/), [Northeastern University (China)](https://english.neu.edu.cn/). In September 2025, I will begin pursuing a master's degree at the [School of Software Technology](http://www.cst.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/), under the guidance of [Prof. Wenqiao Zhang](https://person.zju.edu.cn/wenqiao).
+I am a first-year master's student in the [School of Software Technology](http://www.cst.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of Academician [Beng Chin Ooi](https://ooibc88.github.io/) and Researcher Wenqiao Zhang.
+Prior to this, I received my bachelor's degree from the [Software Colleage](https://sc.neu.edu.cn/), [Northeastern University (China)](https://english.neu.edu.cn/).
 
-My research interests are **<u>Large Language Models</u>** and **<u>Multimodal Large Language Models</u>**.
+My research focuses on **<u>efficient training and inference of large language models (LLMs)</u>**, and I am currently working on Chain-of-Thought (CoT) pruning.
 
 👋👋👋 If you're interested in my work, please feel free to reach out for discussions or collaborations!
 
