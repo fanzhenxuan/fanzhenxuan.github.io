@@ -38,7 +38,6 @@ My research focuses on **<u>efficient training and reasoning of large language m
 
 
 # 🎓 Selected Publications ([Google Scholar])
-($\*$: co-first author;  ^: corresponding author)
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;margin-top:-1.5em;font-size:0.95em;">
 
 
