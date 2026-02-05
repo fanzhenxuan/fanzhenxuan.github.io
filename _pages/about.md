@@ -26,8 +26,9 @@ My research focuses on **<u>efficient training and reasoning of large language m
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
-
-  <li><strong style="font-family: Consolas;">[11/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">AAAI'26:</b> A paper has been accepted to AAAI 2026! 🔥🔥🔥 </li>
+  <li><strong style="font-family: Consolas;">[01/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint：We released <a href="https://arxiv.org/abs/2601.20467">CtrlCoT</a>. 🔥🔥🔥 </li>
+  <li><strong style="font-family: Consolas;">[01/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICASSP'26:</b> A paper has been accepted to ICASSP 2026! 🔥🔥🔥 </li>
+  <li><strong style="font-family: Consolas;">[11/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">AAAI'26:</b> A paper has been accepted to AAAI 2026!  </li>
   <li><strong style="font-family: Consolas;">[09/2025]</strong>  🎓 <b style="color: rgb(231, 165, 65);">Starting Master’s@ZJU:</b> I will join Academician <a href="https://ooibc88.github.io/">Beng Chin Ooi</a>'s <a href="https://www.nbdataxai.com/">group</a> at SST, ZJU in 2025 Fall!</li>
   <li><strong style="font-family: Consolas;">[06/2025]</strong>  🎓 <b style="color: rgb(231, 165, 65);">Graduation@NEU:</b> Received my Bachelor's degree from Northeastern University as an Outstanding Graduate.</li>
 
