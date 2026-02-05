@@ -14,7 +14,7 @@ redirect_from:
 I am a first-year master's student in the [School of Software Technology](http://www.cst.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of Academician [Beng Chin Ooi](https://ooibc88.github.io/) and Researcher [Wenqiao Zhang](https://person.zju.edu.cn/wenqiao).
 Prior to this, I received my bachelor's degree from the [Software Colleage](https://sc.neu.edu.cn/), [Northeastern University (China)](https://english.neu.edu.cn/).
 
-My research focuses on **<u>efficient training and reasoning of large language models (LLMs)</u>**, and I am currently working on Chain-of-Thought (CoT) pruning.
+My research focuses on **<u>efficient training and reasoning of large language models (LLMs)</u>**, and I am currently working on Spatial Intelligence and Embodied Intelligence.
 
 👋👋👋 If you're interested in my work, please feel free to reach out for discussions or collaborations!
 
