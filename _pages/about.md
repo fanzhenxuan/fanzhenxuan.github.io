@@ -14,7 +14,8 @@ redirect_from:
 I am a first-year master's student in the [School of Software Technology](http://www.cst.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of Academician [Beng Chin Ooi](https://ooibc88.github.io/) and Researcher [Wenqiao Zhang](https://person.zju.edu.cn/wenqiao).
 Prior to this, I received my bachelor's degree from the [Software Colleage](https://sc.neu.edu.cn/), [Northeastern University (China)](https://english.neu.edu.cn/).
 
-My previous research focuses on **<u>efficient training and reasoning of large language models (LLMs)</u>**, and I am currently working on Spatial Intelligence and Embodied Intelligence.
+I am currently conducting research in Embodied Intelligence, especially on VLA models.
+In the past, I focused on the efficient training and inference of LLMs and MLLMs, including model quantization, parameter-efficient fine-tuning and CoT compression.
 
 👋👋👋 If you're interested in my work, please feel free to reach out for discussions or collaborations!
 
@@ -26,9 +27,10 @@ My previous research focuses on **<u>efficient training and reasoning of large l
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
-  <li><strong style="font-family: Consolas;">[01/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> We released <a href="https://arxiv.org/abs/2601.20467">CtrlCoT</a>. 🔥🔥🔥 </li>
-  <li><strong style="font-family: Consolas;">[01/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICASSP'26:</b> A paper has been accepted to ICASSP 2026! 🔥🔥🔥 </li>
-  <li><strong style="font-family: Consolas;">[11/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">AAAI'26:</b> A paper has been accepted to AAAI 2026!  </li>
+  <li><strong style="font-family: Consolas;">[04/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ACL'26:</b> <a href="https://arxiv.org/abs/2603.00573">CoMoL</a> has been accepted to ACL 2026 Findings! 🔥🔥🔥 </li>
+  <li><strong style="font-family: Consolas;">[01/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> We released <a href="https://arxiv.org/abs/2601.20467">CtrlCoT</a>. </li>
+  <li><strong style="font-family: Consolas;">[01/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICASSP'26:</b> <a href="https://arxiv.org/abs/2602.02538">FAQ</a> has been accepted to ICASSP 2026! 🎉 </li>
+  <li><strong style="font-family: Consolas;">[11/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">AAAI'26:</b> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39889">MAU-GPT</a> has been accepted to AAAI 2026! 🎉 </li>
   <li><strong style="font-family: Consolas;">[09/2025]</strong>  🎓 <b style="color: rgb(231, 165, 65);">Starting Master’s@ZJU:</b> I will join Academician <a href="https://ooibc88.github.io/">Beng Chin Ooi</a>'s <a href="https://www.nbdataxai.com/">group</a> at SST, ZJU in 2025 Fall!</li>
   <li><strong style="font-family: Consolas;">[06/2025]</strong>  🎓 <b style="color: rgb(231, 165, 65);">Graduation@NEU:</b> Received my Bachelor's degree from Northeastern University as an Outstanding Graduate.</li>
 
