@@ -15,7 +15,7 @@ redirect_from:
   * Supervisor: Prof. [Wenqiao Zhang](https://person.zju.edu.cn/wenqiao)
  -->
 * B.Eng. in Information Security, [Northeastern University (China)](https://english.neu.edu.cn/), 2021 - present
-  * GPA: 4.15/5.0, Ave. Score: 91.53/100
+  * GPA: 4.19/5.0, Ave. Score: 91.9/100
 
 ## Honors and Awards
 - *2024.11* Outstanding Individual with Academic and Special Talents at NEU.
