@@ -43,10 +43,42 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 
 
 # 🎓 Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=OscFYyAAAAAJ))
+
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;margin-top:-1.5em;font-size:0.95em;">
+  <tr>
+  <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+    <b>Enhancing Post-Training Quantization via Future Activation Awareness.</b>
+    <br>
+    Zheqi Lv*, <u>Zhenxuan Fan*</u>, Qi Tian, Wenqiao Zhang, Yueting Zhuang
+    <br>
 
 
+    
+    <i>arXiv preprint, 2026</i>.
+    <br>
+    [<a href="https://arxiv.org/pdf/2602.02538" target="_blank">PDF</a>]
+    [<a href="https://arxiv.org/abs/2602.02538" target="_blank">arXiv</a>]
+    [<a href="#" onclick="showBibFutureActivation()">bibtex</a>]
+
+    <script>
+      function showBibFutureActivation() {
+        const bib = `@misc{lv2026enhancingposttrainingquantizationfuture,
+  title={Enhancing Post-Training Quantization via Future Activation Awareness},
+  author={Zheqi Lv and Zhenxuan Fan and Qi Tian and Wenqiao Zhang and Yueting Zhuang},
+  year={2026},
+  eprint={2602.02538},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  url={https://arxiv.org/abs/2602.02538}
+}`;
+        const newWindow = window.open("", "future_activation_bibtex");
+        newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+      }
+    </script>
+  </td>
+</tr>  
 </table>
+
 
 
 
