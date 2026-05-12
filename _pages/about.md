@@ -42,7 +42,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 
 
 
-# 🎓 Selected Publications ([Google Scholar])
+# 🎓 Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=OscFYyAAAAAJ))
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;margin-top:-1.5em;font-size:0.95em;">
 
 
