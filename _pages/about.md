@@ -28,7 +28,9 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 
 <ul>
   <li><strong style="font-family: Consolas;">[04/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ACL'26:</b> <a href="https://arxiv.org/abs/2603.00573">CoMoL</a> has been accepted to ACL 2026 Findings! 🔥🔥🔥 </li>
+  <li><strong style="font-family: Consolas;">[02/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> We released <a href="https://arxiv.org/abs/2603.00578">Draft-Thinking</a>. </li>
   <li><strong style="font-family: Consolas;">[01/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> We released <a href="https://arxiv.org/abs/2601.20467">CtrlCoT</a>. </li>
+  <li><strong style="font-family: Consolas;">[01/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICLR'26:</b> <a href="https://arxiv.org/abs/2602.16110">OmniCT</a> has been accepted to ICLR 2026! 🎉 </li>
   <li><strong style="font-family: Consolas;">[01/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICASSP'26:</b> <a href="https://arxiv.org/abs/2602.02538">FAQ</a> has been accepted to ICASSP 2026! 🎉 </li>
   <li><strong style="font-family: Consolas;">[11/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">AAAI'26:</b> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39889">MAU-GPT</a> has been accepted to AAAI 2026! 🎉 </li>
   <li><strong style="font-family: Consolas;">[09/2025]</strong>  🎓 <b style="color: rgb(231, 165, 65);">Starting Master’s@ZJU:</b> I will join Academician <a href="https://ooibc88.github.io/">Beng Chin Ooi</a>'s <a href="https://www.nbdataxai.com/">group</a> at SST, ZJU in 2025 Fall!</li>
