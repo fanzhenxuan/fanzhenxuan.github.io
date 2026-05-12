@@ -51,7 +51,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
   <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
     <b>CoMoL: Efficient Mixture of LoRA Experts via Dynamic Core Space Merging.</b>
     <br>
-    Jie Cao*, <b>Zhenxuan Fan*</b>, Zhuonan Wang, Tianwei Lin, Ziyuan Zhao, Rolan Yan, Wenqiao Zhang, Feifei Shao, Hongwei Wang, Jun Xiao, Siliang Tang
+    Jie Cao*, <u>Zhenxuan Fan*</u>, Zhuonan Wang, Tianwei Lin, Ziyuan Zhao, Rolan Yan, Wenqiao Zhang, Feifei Shao, Hongwei Wang, Jun Xiao, Siliang Tang
     <br>
     <i>arXiv preprint, 2026</i>.
     <br>
@@ -81,7 +81,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
   <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
     <b>Draft-Thinking: Learning Efficient Reasoning in Long Chain-of-Thought LLMs.</b>
     <br>
-    Jie Cao*, Tianwei Lin*, <b>Zhenxuan Fan</b>, Bo Yuan, Ziyuan Zhao, Rolan Yan, Wenqiao Zhang, Siliang Tang
+    Jie Cao*, Tianwei Lin*, <u>Zhenxuan Fan</u>, Bo Yuan, Ziyuan Zhao, Rolan Yan, Wenqiao Zhang, Siliang Tang
     <br>
     <i>arXiv preprint, 2026</i>.
     <br>
@@ -113,7 +113,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
   <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
     <b>CtrlCoT: Dual-Granularity Chain-of-Thought Compression for Controllable Reasoning.</b>
     <br>
-    <b>Zhenxuan Fan</b>, Jie Cao, Yang Dai, Zheqi Lv, Wenqiao Zhang, Zhongle Xie, Peng Lu, Beng Chin Ooi
+    <u>Zhenxuan Fan</u>, Jie Cao, Yang Dai, Zheqi Lv, Wenqiao Zhang, Zhongle Xie, Peng Lu, Beng Chin Ooi
     <br>
     <i>arXiv preprint, 2026</i>.
     <br>
@@ -144,7 +144,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
   <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
     <b>OmniCT: Towards a Unified Slice-Volume LVLM for Comprehensive CT Analysis.</b>
     <br>
-    Tianwei Lin, Zhongwei Qiu, Wenqiao Zhang, Jiang Liu, Yihan Xie, Mingjian Gao, <b>Zhenxuan Fan</b>, Zhaocheng Li, Sijing Li, Zhongle Xie, Peng Lu, Yueting Zhuang, Ling Zhang, Beng Chin Ooi, Yingda Xia
+    Tianwei Lin*, Zhongwei Qiu*, Wenqiao Zhang, Jiang Liu, Yihan Xie, Mingjian Gao, <u>Zhenxuan Fan</u>, Zhaocheng Li, Sijing Li, Zhongle Xie, Peng Lu, Yueting Zhuang, Ling Zhang, Beng Chin Ooi, Yingda Xia
     <br>
     <i>The Fourteenth International Conference on Learning Representations, 2026</i>.
     <br>
@@ -173,7 +173,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
   <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
     <b>Enhancing Post-Training Quantization via Future Activation Awareness.</b>
     <br>
-    Zheqi Lv*, <b>Zhenxuan Fan*</b>, Qi Tian, Wenqiao Zhang, Yueting Zhuang
+    Zheqi Lv*, <u>Zhenxuan Fan*</u>, Qi Tian, Wenqiao Zhang, Yueting Zhuang
     <br>
 
 
@@ -206,7 +206,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
   <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
     <b>MAU-GPT: Enhancing Multi-type Industrial Anomaly Understanding via Anomaly-aware and Generalist Experts Adaptation.</b>
     <br>
-    Zhuonan Wang, <b>Zhenxuan Fan</b>, Siwen Tan, Yu Zhong, Yuqian Yuan, Haoyuan Li, Hao Jiang, Wenqiao Zhang, Feifei Shao, Hongwei Wang, others
+    Zhuonan Wang*, <u>Zhenxuan Fan*</u>, Siwen Tan*, Yu Zhong, Yuqian Yuan, Haoyuan Li, Hao Jiang, Wenqiao Zhang, Feifei Shao, Hongwei Wang, others
     <br>
     <i>Proceedings of the AAAI Conference on Artificial Intelligence, 2026</i>.
     <br>
