@@ -210,6 +210,8 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
     <br>
     <i>Proceedings of the AAAI Conference on Artificial Intelligence, 2026</i>.
     <br>
+    [<a href="https://arxiv.org/pdf/2602.07011" target="_blank" rel="noopener noreferrer">PDF</a>]
+    [<a href="https://arxiv.org/abs/2602.07011" target="_blank" rel="noopener noreferrer">arXiv</a>]
     [<a href="javascript:void(0);" onclick="showBibMAUGPT()">bibtex</a>]
 
     <script>
