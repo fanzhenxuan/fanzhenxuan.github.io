@@ -45,11 +45,135 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 # 🎓 Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=OscFYyAAAAAJ))
 
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;margin-top:-1.5em;font-size:0.95em;">
+<tr>
+
+<tr>
+  <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+    <b>CoMoL: Efficient Mixture of LoRA Experts via Dynamic Core Space Merging.</b>
+    <br>
+    Jie Cao*, <b>Zhenxuan Fan*</b>, Zhuonan Wang, Tianwei Lin, Ziyuan Zhao, Rolan Yan, Wenqiao Zhang, Feifei Shao, Hongwei Wang, Jun Xiao, Siliang Tang
+    <br>
+    <i>arXiv preprint, 2026</i>.
+    <br>
+    [<a href="https://arxiv.org/pdf/2603.00573" target="_blank" rel="noopener noreferrer">PDF</a>]
+    [<a href="https://arxiv.org/abs/2603.00573" target="_blank" rel="noopener noreferrer">arXiv</a>]
+    [<a href="javascript:void(0);" onclick="showBibCoMoL()">bibtex</a>]
+
+    <script>
+      function showBibCoMoL() {
+        const bib = `@misc{cao2026comolefficientmixturelora,
+  title={CoMoL: Efficient Mixture of LoRA Experts via Dynamic Core Space Merging},
+  author={Jie Cao and Zhenxuan Fan and Zhuonan Wang and Tianwei Lin and Ziyuan Zhao and Rolan Yan and Wenqiao Zhang and Feifei Shao and Hongwei Wang and Jun Xiao and Siliang Tang},
+  year={2026},
+  eprint={2603.00573},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2603.00573}
+}`;
+        const newWindow = window.open("", "comol_bibtex");
+        newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+      }
+    </script>
+  </td>
+</tr>
+
+  
+  <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+    <b>Draft-Thinking: Learning Efficient Reasoning in Long Chain-of-Thought LLMs.</b>
+    <br>
+    Jie Cao*, Tianwei Lin*, <b>Zhenxuan Fan</b>, Bo Yuan, Ziyuan Zhao, Rolan Yan, Wenqiao Zhang, Siliang Tang
+    <br>
+    <i>arXiv preprint, 2026</i>.
+    <br>
+    [<a href="https://arxiv.org/pdf/2603.00578" target="_blank" rel="noopener noreferrer">PDF</a>]
+    [<a href="https://arxiv.org/abs/2603.00578" target="_blank" rel="noopener noreferrer">arXiv</a>]
+    [<a href="javascript:void(0);" onclick="showBibDraftThinking()">bibtex</a>]
+
+    <script>
+      function showBibDraftThinking() {
+        const bib = `@misc{cao2026draftthinkinglearningefficientreasoning,
+  title={Draft-Thinking: Learning Efficient Reasoning in Long Chain-of-Thought LLMs},
+  author={Jie Cao and Tianwei Lin and Zhenxuan Fan and Bo Yuan and Ziyuan Zhao and Rolan Yan and Wenqiao Zhang and Siliang Tang},
+  year={2026},
+  eprint={2603.00578},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2603.00578}
+}`;
+        const newWindow = window.open("", "draft_thinking_bibtex");
+        newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+      }
+    </script>
+  </td>
+</tr>
+
+
+
+<tr>
+  <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+    <b>CtrlCoT: Dual-Granularity Chain-of-Thought Compression for Controllable Reasoning.</b>
+    <br>
+    <b>Zhenxuan Fan</b>, Jie Cao, Yang Dai, Zheqi Lv, Wenqiao Zhang, Zhongle Xie, Peng Lu, Beng Chin Ooi
+    <br>
+    <i>arXiv preprint, 2026</i>.
+    <br>
+    [<a href="https://arxiv.org/pdf/2601.20467" target="_blank" rel="noopener noreferrer">PDF</a>]
+    [<a href="https://arxiv.org/abs/2601.20467" target="_blank" rel="noopener noreferrer">arXiv</a>]
+    [<a href="javascript:void(0);" onclick="showBibCtrlCoT()">bibtex</a>]
+
+    <script>
+      function showBibCtrlCoT() {
+        const bib = `@misc{fan2026ctrlcotdualgranularitychainofthoughtcompression,
+  title={CtrlCoT: Dual-Granularity Chain-of-Thought Compression for Controllable Reasoning},
+  author={Zhenxuan Fan and Jie Cao and Yang Dai and Zheqi Lv and Wenqiao Zhang and Zhongle Xie and Peng LU and Beng Chin Ooi},
+  year={2026},
+  eprint={2601.20467},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2601.20467}
+}`;
+        const newWindow = window.open("", "ctrlcot_bibtex");
+        newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+      }
+    </script>
+  </td>
+</tr>
+
+  
+  <tr>
+  <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+    <b>OmniCT: Towards a Unified Slice-Volume LVLM for Comprehensive CT Analysis.</b>
+    <br>
+    Tianwei Lin, Zhongwei Qiu, Wenqiao Zhang, Jiang Liu, Yihan Xie, Mingjian Gao, <b>Zhenxuan Fan</b>, Zhaocheng Li, Sijing Li, Zhongle Xie, Peng Lu, Yueting Zhuang, Ling Zhang, Beng Chin Ooi, Yingda Xia
+    <br>
+    <i>The Fourteenth International Conference on Learning Representations, 2026</i>.
+    <br>
+    [<a href="https://openreview.net/forum?id=nrZI64gTvC" target="_blank" rel="noopener noreferrer">OpenReview</a>]
+    [<a href="https://arxiv.org/pdf/2602.16110" target="_blank" rel="noopener noreferrer">PDF</a>]
+    [<a href="https://arxiv.org/abs/2602.16110" target="_blank" rel="noopener noreferrer">arXiv</a>]
+    [<a href="javascript:void(0);" onclick="showBibOmniCT()">bibtex</a>]
+
+    <script>
+      function showBibOmniCT() {
+        const bib = `@inproceedings{lin2026omnict,
+  title={Omni{CT}: Towards a Unified Slice-Volume {LVLM} for Comprehensive {CT} Analysis},
+  author={Tianwei Lin and Zhongwei Qiu and Wenqiao Zhang and Jiang Liu and Yihan Xie and Mingjian Gao and Zhenxuan Fan and Zhaocheng Li and Sijing Li and Zhongle Xie and Peng LU and Yueting Zhuang and Ling Zhang and Beng Chin Ooi and Yingda Xia},
+  booktitle={The Fourteenth International Conference on Learning Representations},
+  year={2026},
+  url={https://openreview.net/forum?id=nrZI64gTvC}
+}`;
+        const newWindow = window.open("", "omnict_bibtex");
+        newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+      }
+    </script>
+  </td>
+</tr>
+  
   <tr>
   <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
     <b>Enhancing Post-Training Quantization via Future Activation Awareness.</b>
     <br>
-    Zheqi Lv*, <u>Zhenxuan Fan*</u>, Qi Tian, Wenqiao Zhang, Yueting Zhuang
+    Zheqi Lv*, <b>Zhenxuan Fan*</b>, Qi Tian, Wenqiao Zhang, Yueting Zhuang
     <br>
 
 
@@ -77,6 +201,34 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
     </script>
   </td>
 </tr>  
+
+<tr>
+  <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+    <b>MAU-GPT: Enhancing Multi-type Industrial Anomaly Understanding via Anomaly-aware and Generalist Experts Adaptation.</b>
+    <br>
+    Zhuonan Wang, <b>Zhenxuan Fan</b>, Siwen Tan, Yu Zhong, Yuqian Yuan, Haoyuan Li, Hao Jiang, Wenqiao Zhang, Feifei Shao, Hongwei Wang, others
+    <br>
+    <i>Proceedings of the AAAI Conference on Artificial Intelligence, 2026</i>.
+    <br>
+    [<a href="javascript:void(0);" onclick="showBibMAUGPT()">bibtex</a>]
+
+    <script>
+      function showBibMAUGPT() {
+        const bib = `@inproceedings{wang2026mau,
+  title={MAU-GPT: Enhancing Multi-type Industrial Anomaly Understanding via Anomaly-aware and Generalist Experts Adaptation},
+  author={Wang, Zhuonan and Fan, Zhenxuan and Tan, Siwen and Zhong, Yu and Yuan, Yuqian and Li, Haoyuan and Jiang, Hao and Zhang, Wenqiao and Shao, Feifei and Wang, Hongwei and others},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={31},
+  pages={26787--26795},
+  year={2026}
+}`;
+        const newWindow = window.open("", "maugpt_bibtex");
+        newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+      }
+    </script>
+  </td>
+</tr>
 </table>
 
 
