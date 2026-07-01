@@ -248,7 +248,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
     src="/assets/images/xpeng.png"
     alt="XPENG Robotics"
     style="
-      width: 120px;
+      width: 130px;
       height: auto;
       object-fit: contain;
       flex-shrink: 0;
@@ -257,19 +257,18 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
   />
 
   <div style="flex: 1;">
-    <h3 style="margin: 0 0 8px 0;">
+      <h3 style="margin: 0 0 8px; font-weight: 400;">
       Embodied Intelligence Algorithm Intern
     </h3>
 
     <p style="margin: 0 0 8px 0;">
-      <strong>XPENG Robotics</strong>
+      XPENG Robotics
       · Shenzhen
       · June 2026 – Present
     </p>
 
     <p style="margin: 0;">
-      <strong>Topic:</strong>
-      Pre-training and mid-training of VLA foundation models.
+      Topic:Pre-training and mid-training of VLA foundation models.
     </p>
   </div>
 </div>
