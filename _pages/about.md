@@ -235,19 +235,39 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 </table>
 
 # 🧑‍💻 Research Intern
-
-<div class="experience-item">
+<div
+  style="
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 24px;
+    width: 100%;
+  "
+>
   <img
     src="/assets/images/xpeng.png"
     alt="XPENG Robotics"
-    class="company-logo"
+    style="
+      width: 120px;
+      height: auto;
+      object-fit: contain;
+      flex-shrink: 0;
+      margin: 0;
+    "
   />
 
-  <div class="experience-content">
-    <h3>Embodied Intelligence Algorithm Intern</h3>
-    <p class="company">XPENG Robotics</p>
-    <p class="date">June 2026 – Present</p>
-    <p>
+  <div style="flex: 1;">
+    <h3 style="margin: 0 0 8px 0;">
+      Embodied Intelligence Algorithm Intern
+    </h3>
+
+    <p style="margin: 0 0 8px 0;">
+      <strong>XPENG Robotics</strong>
+      · Shenzhen
+      · June 2026 – Present
+    </p>
+
+    <p style="margin: 0;">
       <strong>Research Focus:</strong>
       Pre-training and mid-training of VLA foundation models.
     </p>
