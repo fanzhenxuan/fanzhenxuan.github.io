@@ -268,7 +268,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
     </p>
 
     <p style="margin: 0;">
-      <strong>Research Focus:</strong>
+      <strong>Topic:</strong>
       Pre-training and mid-training of VLA foundation models.
     </p>
   </div>
