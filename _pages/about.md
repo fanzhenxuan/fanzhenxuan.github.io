@@ -240,7 +240,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 
 <div style="display: flex; align-items: center; gap: 24px; margin-bottom: 24px;">
   <img
-    src="assets/images/xpeng.png"
+    src="/assets/images/xpeng.png"
     alt="XPENG Robotics"
     style="width: 110px; height: auto; object-fit: contain; flex-shrink: 0;"
   />
