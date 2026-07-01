@@ -234,7 +234,26 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 </tr>
 </table>
 
+# 🧑‍💻 Research Intern
 
+<div class="experience-item">
+  <img
+    src="/assets/images/xpeng-logo.png"
+    alt="XPENG Robotics"
+    class="company-logo"
+  />
+
+  <div class="experience-content">
+    <h3>Embodied Intelligence Algorithm Intern</h3>
+    <p class="company">XPENG Robotics</p>
+    <p class="date">June 2026 – Present</p>
+    <p>
+      <strong>Research Focus:</strong>
+      Pre-training and mid-training of Vision-Language-Action (VLA)
+      foundation models.
+    </p>
+  </div>
+</div>
 
 
 # 🏆 Honors and Awards
@@ -250,10 +269,10 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 <!-- - *2016.10* Second prize, National (Senior) High School Mathematical Competition of China. -->
    
 
-# 🎖 Services
+<!--# 🎖 Services
   
 
-# 💬 Talks
+# 💬 Talks-->
 
 
 --------
