@@ -248,7 +248,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
     src="/assets/images/xpeng.png"
     alt="XPENG Robotics"
     style="
-      width: 160px;
+      width: 150px;
       height: auto;
       object-fit: contain;
       flex-shrink: 0;
