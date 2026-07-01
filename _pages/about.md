@@ -238,7 +238,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 
 <div class="experience-item">
   <img
-    src="/assets/images/xpeng-logo.png"
+    src="/assets/images/xpeng.png"
     alt="XPENG Robotics"
     class="company-logo"
   />
