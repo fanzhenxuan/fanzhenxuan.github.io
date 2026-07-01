@@ -236,29 +236,18 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 
 # 🧑‍💻 Research Intern
 
-# 🧑‍💻 Research Intern
-
-<div style="display: flex; align-items: center; gap: 24px; margin-bottom: 24px;">
+<div class="experience-item">
   <img
     src="/assets/images/xpeng.png"
     alt="XPENG Robotics"
-    style="width: 110px; height: auto; object-fit: contain; flex-shrink: 0;"
+    class="company-logo"
   />
 
-  <div>
-    <h3 style="margin: 0 0 8px 0;">
-      Embodied Intelligence Algorithm Intern
-    </h3>
-
-    <p style="margin: 6px 0;">
-      <strong>XPENG Robotics</strong>
-    </p>
-
-    <p style="margin: 6px 0; color: #b8c1cc;">
-      June 2026 – Present
-    </p>
-
-    <p style="margin: 10px 0 0 0;">
+  <div class="experience-content">
+    <h3>Embodied Intelligence Algorithm Intern</h3>
+    <p class="company">XPENG Robotics</p>
+    <p class="date">June 2026 – Present</p>
+    <p>
       <strong>Research Focus:</strong>
       Pre-training and mid-training of Vision-Language-Action (VLA)
       foundation models.
