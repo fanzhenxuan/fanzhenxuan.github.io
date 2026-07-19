@@ -27,6 +27,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
+ <li><strong style="font-family: Consolas;">[06/2026]</strong>  🚗 <b style="color: rgb(231, 165, 65);">Internship:</b> I joined XPENG Robotics Multimodal as a Research Intern, working on Pre-Training of VLA Foundation Models!🤖 </li>
  <li><strong style="font-family: Consolas;">[05/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">CVPR'26:</b> We won the championship at the CVPR 2026 ManipArena Challenge, and AgentVLA has been accepted to the CVPR 2026 EAI Workshop!🔥🔥🔥 </li>
   <li><strong style="font-family: Consolas;">[04/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ACL'26:</b> <a href="https://arxiv.org/abs/2603.00573">CoMoL</a> has been accepted to ACL 2026 Findings! 🎉 </li>
   <li><strong style="font-family: Consolas;">[02/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> We released <a href="https://arxiv.org/abs/2603.00578">Draft-Thinking</a>. </li>
