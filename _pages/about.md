@@ -147,7 +147,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
   </td>
 </tr>
 
-  
+<tr>
   <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
     <b>Draft-Thinking: Learning Efficient Reasoning in Long Chain-of-Thought LLMs.</b>
     <br>
