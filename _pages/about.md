@@ -65,7 +65,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
     <script>
       function showBibRoboSPA() {
         const bib = `@inproceedings{fan2026robospa,
-  title={{RoboSPA}: Can {VLA} Models Go Beyond Simple Scenes and Short-Horizon Tasks?},
+  title={Robo{SPA}: Can {VLA} Models Go Beyond Simple Scenes and Short-Horizon Tasks?},
   author={Zhenxuan Fan and Bo Zhang and Yutong Lin and Yuqian Yuan and Juekai Lin and Liang Liang and Zhuoyi Huang and Wenqiao Zhang and Juncheng Li and Siliang Tang and Jun Xiao and Yueting Zhuang},
   booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
   year={2026},
