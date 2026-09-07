@@ -27,8 +27,10 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
- <li><strong style="font-family: Consolas;">[06/2026]</strong>  🚗 <b style="color: rgb(231, 165, 65);">Internship:</b> I joined <a href="https://www.xpeng.com/">XPENG Robotics</a>  as a Research Intern, working on Pre-Training of VLA Foundation Models! 🤖 </li>
- <li><strong style="font-family: Consolas;">[05/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">CVPR'26:</b> We won the championship at the <a href="https://maniparena.com/">CVPR 2026 ManipArena Challenge</a>, and AgentVLA has been accepted to the <a href="https://embodied-ai.org/cvpr2026/">CVPR 2026 EAI Workshop</a>! 🔥🔥🔥 </li>
+  <li><strong style="font-family: Consolas;">[09/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> We released <a href="https://arxiv.org/abs/2609.01281">EmbodiedSkills</a>. </li>
+  <li><strong style="font-family: Consolas;">[08/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">EMNLP'26:</b> <a href="https://arxiv.org/pdf/2609.05324">RoboSPA</a> has been accepted to EMNLP 2026 Main Conference! 🎉🎉🎉 </li>
+  <li><strong style="font-family: Consolas;">[06/2026]</strong>  🚗 <b style="color: rgb(231, 165, 65);">Internship:</b> I joined <a href="https://www.xpeng.com/">XPENG Robotics</a>  as a Research Intern, working on Pre-Training of VLA Foundation Models! 🤖 </li>
+  <li><strong style="font-family: Consolas;">[05/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">CVPR'26:</b> We won the championship at the <a href="https://maniparena.com/">CVPR 2026 ManipArena Challenge</a>, and AgentVLA has been accepted to the <a href="https://embodied-ai.org/cvpr2026/">CVPR 2026 EAI Workshop</a>! 🔥🔥🔥 </li>
   <li><strong style="font-family: Consolas;">[04/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ACL'26:</b> <a href="https://arxiv.org/abs/2603.00573">CoMoL</a> has been accepted to ACL 2026 Findings! 🎉 </li>
   <li><strong style="font-family: Consolas;">[02/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> We released <a href="https://arxiv.org/abs/2603.00578">Draft-Thinking</a>. </li>
   <li><strong style="font-family: Consolas;">[01/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> We released <a href="https://arxiv.org/abs/2601.20467">CtrlCoT</a>. </li>
@@ -48,6 +50,73 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;margin-top:-1.5em;font-size:0.95em;">
 <tr>
+
+<tr>
+  <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+    <b>RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?</b>
+    <br>
+    <u>Zhenxuan Fan</u>, Bo Zhang, Yutong Lin, Yuqian Yuan, Juekai Lin, Liang Liang, Zhuoyi Huang, Wenqiao Zhang, Juncheng Li, Siliang Tang, Jun Xiao, Yueting Zhuang
+    <br>
+    <i>EMNLP 2026 Main Conference</i>.
+    <br>
+    [<a href="https://arxiv.org/pdf/2609.05324" target="_blank" rel="noopener noreferrer">PDF</a>]
+    [<a href="https://arxiv.org/abs/2609.05324" target="_blank" rel="noopener noreferrer">arXiv</a>]
+    [<a href="javascript:void(0);" onclick="showBibRoboSPA()">bibtex</a>]
+
+    <script>
+      function showBibRoboSPA() {
+        const bib = `@inproceedings{fan2026robospa,
+  title={{RoboSPA}: Can {VLA} Models Go Beyond Simple Scenes and Short-Horizon Tasks?},
+  author={Zhenxuan Fan and Bo Zhang and Yutong Lin and Yuqian Yuan and Juekai Lin and Liang Liang and Zhuoyi Huang and Wenqiao Zhang and Juncheng Li and Siliang Tang and Jun Xiao and Yueting Zhuang},
+  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+  year={2026},
+  url={https://arxiv.org/abs/2609.05324}
+}`;
+        const newWindow = window.open("", "robospa_bibtex");
+        newWindow.document.write(
+          "<pre style='font-family: monospace; padding: 20px;'>" +
+          bib +
+          "</pre>"
+        );
+      }
+    </script>
+  </td>
+</tr>
+
+
+<tr>
+  <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+    <b>EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents.</b>
+    <br>
+    Wei Wang, Wenqiao Zhang, Yutong Lin, Yuqian Yuan, Tianwei Lin, Jinhao Mao, <u>Zhenxuan Fan</u>, Mingjian Gao, Yang Dai, Wentong Li, Zheqi Lv, Zheng Dong, Yingjie Niu, Jiaqi Zhu, Jun Xiao, Chao Li, Yueting Zhuang
+    <br>
+    <i>arXiv preprint, 2026</i>.
+    <br>
+    [<a href="https://arxiv.org/pdf/2609.01281" target="_blank" rel="noopener noreferrer">PDF</a>]
+    [<a href="https://arxiv.org/abs/2609.01281" target="_blank" rel="noopener noreferrer">arXiv</a>]
+    [<a href="javascript:void(0);" onclick="showBibEmbodiedSkills()">bibtex</a>]
+
+    <script>
+      function showBibEmbodiedSkills() {
+        const bib = `@misc{wang2026embodiedskills,
+  title={EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying {VLA} Agents},
+  author={Wei Wang and Wenqiao Zhang and Yutong Lin and Yuqian Yuan and Tianwei Lin and Jinhao Mao and Zhenxuan Fan and Mingjian Gao and Yang Dai and Wentong Li and Zheqi Lv and Zheng Dong and Yingjie Niu and Jiaqi Zhu and Jun Xiao and Chao Li and Yueting Zhuang},
+  year={2026},
+  eprint={2609.01281},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO},
+  url={https://arxiv.org/abs/2609.01281}
+}`;
+        const newWindow = window.open("", "embodiedskills_bibtex");
+        newWindow.document.write(
+          "<pre style='font-family: monospace; padding: 20px;'>" +
+          bib +
+          "</pre>"
+        );
+      }
+    </script>
+  </td>
+</tr>
 
 <tr>
   <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
