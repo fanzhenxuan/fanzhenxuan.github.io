@@ -11,7 +11,8 @@ redirect_from:
 
 **你好! / Hello! / 안녕하세요! / こんにちは! / Здравствуй! / Bonjour! / Guten Tag! / Hola! / Ciao! / السلام عليكم!**
 
-I am a second-year master's student in the [School of Software Technology](http://www.cst.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of Academician [Beng Chin Ooi](https://ooibc88.github.io/) and Researcher [Wenqiao Zhang](https://person.zju.edu.cn/wenqiao).
+I am a second-year master's student in the [School of Software Technology](http://www.cst.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of Professor [Wenqiao Zhang](https://person.zju.edu.cn/wenqiao), and previously under the supervision of the late Professor [Beng Chin Ooi](https://ooibc88.github.io/) (Foreign Member of the Chinese Academy of Sciences and Academia Europaea; Fellow of the ACM, the IEEE, the Singapore National Academy of Science, the Singapore Academy of Engineering, and the China Computer Federation).
+
 Prior to this, I received my bachelor's degree from the [Software Colleage](https://sc.neu.edu.cn/), [Northeastern University (China)](https://english.neu.edu.cn/).
 
 I am currently conducting research in Embodied Intelligence, especially on VLA models.
