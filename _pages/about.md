@@ -15,7 +15,7 @@ I am a second-year master's student in the [School of Software Technology](http:
 
 Prior to this, I received my bachelor's degree from the [Software Colleage](https://sc.neu.edu.cn/), [Northeastern University (China)](https://english.neu.edu.cn/).
 
-I am currently conducting research in Embodied Intelligence, especially on VLA models.
+I am currently conducting research in Embodied AI, especially on VLA models.
 In the past, I focused on the efficient training and inference of LLMs and MLLMs, including model quantization, parameter-efficient fine-tuning and CoT compression.
 
 👋👋👋 If you're interested in my work, please feel free to reach out for discussions or collaborations!
