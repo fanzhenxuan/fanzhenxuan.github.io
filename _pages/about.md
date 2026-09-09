@@ -366,4 +366,6 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 --------
 
 <center><b>Site Analytics</b></center>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=1ifSjcUBTKxdHhsnORHA4J3SrQlmJ4pK-akt9ezcXB8'></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=ndo44DBHn_cJgjIXbYrbwSM4YjWZXFUSQe_Fq_4n_As&cl=ffffff&w=a"></script>
+
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=c1rhulr3FFx9ijZLJHP_-RiQNE00hGixf1Ivl04yTcM"></script>
