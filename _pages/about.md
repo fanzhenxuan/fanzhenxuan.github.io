@@ -365,5 +365,15 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 
 --------
 
-<center><b>Site Analytics</b></center>
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=ndo44DBHn_cJgjIXbYrbwSM4YjWZXFUSQe_Fq_4n_As&cl=ffffff&w=a"></script>
+<!-- <center><b>Site Analytics</b></center>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=ndo44DBHn_cJgjIXbYrbwSM4YjWZXFUSQe_Fq_4n_As&cl=ffffff&w=a"></script> -->
+
+<div style="text-align: center;">
+  <b>Site Analytics</b>
+  <br>
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?cl=e8e8e8&w=500&t=n&d=ndo44DBHn_cJgjIXbYrbwSM4YjWZXFUSQe_Fq_4n_As&co=3282b8&cmo=3acc3a&cmn=ff9800&ct=ffffff">
+  </script>
+</div>
