@@ -29,7 +29,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 
 <ul>
   <li><strong style="font-family: Consolas;">[09/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> We released <a href="https://arxiv.org/abs/2609.01281">EmbodiedSkills</a>. </li>
-  <li><strong style="font-family: Consolas;">[08/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">EMNLP'26:</b> <a href="https://arxiv.org/pdf/2609.05324">RoboSPA</a> has been accepted to EMNLP 2026 Main Conference! 🎉🎉🎉 </li>
+  <li><strong style="font-family: Consolas;">[08/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">EMNLP'26:</b> <a href="https://arxiv.org/pdf/2609.05324">RoboSPA</a> has been accepted to EMNLP 2026 Oral! 🎉🎉🎉 </li>
   <li><strong style="font-family: Consolas;">[06/2026]</strong>  🚗 <b style="color: rgb(231, 165, 65);">Internship:</b> I joined <a href="https://www.xpeng.com/">XPENG Robotics</a>  as a Research Intern, working on Pre-Training of VLA Foundation Models! 🤖 </li>
   <li><strong style="font-family: Consolas;">[05/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">CVPR'26:</b> We won the championship at the <a href="https://maniparena.com/">CVPR 2026 ManipArena Challenge</a>, and <a href="https://embodied-ai.org/papers/2026/24_Agentic_Decomposition_for_R.pdf">AgentVLA</a> has been accepted to the <a href="https://embodied-ai.org/cvpr2026/">CVPR 2026 EAI Workshop</a>! 🔥🔥🔥 </li>
   <li><strong style="font-family: Consolas;">[04/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ACL'26:</b> <a href="https://arxiv.org/abs/2603.00573">CoMoL</a> has been accepted to ACL 2026 Findings! 🎉 </li>
