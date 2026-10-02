@@ -28,7 +28,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
-  <li><strong style="font-family: Consolas;">[09/2026]</strong>  🤖 <b style="color: rgb(231, 165, 65);">Technical Report:</b> <a href="https://arxiv.org/abs/2609.39403">IronMind</a> has been released! </li>
+  <li><strong style="font-family: Consolas;">[09/2026]</strong>  🤖 <b style="color: rgb(231, 165, 65);">Technical Report:</b> <a href="https://arxiv.org/abs/2609.39403">IronMind</a> has been released! I contributed to this work during my internship at XPENG Robotics. </li>
   <li><strong style="font-family: Consolas;">[09/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> We released <a href="https://arxiv.org/abs/2609.01281">EmbodiedSkills</a>. </li>
   <li><strong style="font-family: Consolas;">[08/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">EMNLP'26:</b> <a href="https://arxiv.org/pdf/2609.05324">RoboSPA</a> has been accepted to EMNLP 2026 Oral! 🎉🎉🎉 </li>
   <li><strong style="font-family: Consolas;">[06/2026]</strong>  🚗 <b style="color: rgb(231, 165, 65);">Internship:</b> I joined <a href="https://www.xpeng.com/">XPENG Robotics</a>  as a Research Intern, working on Pre-Training of VLA Foundation Models! 🤖 </li>
