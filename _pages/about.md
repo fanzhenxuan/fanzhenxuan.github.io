@@ -28,6 +28,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
+  <li><strong style="font-family: Consolas;">[09/2026]</strong>  🤖 <b style="color: rgb(231, 165, 65);">Technical Report:</b> <a href="https://arxiv.org/abs/2609.39403">IronMind</a> has been released! </li>
   <li><strong style="font-family: Consolas;">[09/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> We released <a href="https://arxiv.org/abs/2609.01281">EmbodiedSkills</a>. </li>
   <li><strong style="font-family: Consolas;">[08/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">EMNLP'26:</b> <a href="https://arxiv.org/pdf/2609.05324">RoboSPA</a> has been accepted to EMNLP 2026 Oral! 🎉🎉🎉 </li>
   <li><strong style="font-family: Consolas;">[06/2026]</strong>  🚗 <b style="color: rgb(231, 165, 65);">Internship:</b> I joined <a href="https://www.xpeng.com/">XPENG Robotics</a>  as a Research Intern, working on Pre-Training of VLA Foundation Models! 🤖 </li>
@@ -50,6 +51,40 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 # 🎓 Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=OscFYyAAAAAJ))
 
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;margin-top:-1.5em;font-size:0.95em;">
+
+<tr>
+  <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+    <b>IronMind: Scaling Humanoid Dexterous Manipulation via Camera-Space Ego-Centric Pretraining</b>
+    <br>
+    Huimin Pan, Yufan Ren, Kunpeng Song, Siyang Wang, Xiwen Zhang, Xiaoyun Hu, Zhuoxu Duan, Hanrui Zheng, Jialeng Ni, Nathan Zhao, Sibo Ma, <u>Zhenxuan Fan</u>, Zhongyang Che, Danny Bao, Jiacheng Wei, Jerry Bai, Xiaoyu Yue, Xiaoyang Guo, Chenyi Chen
+    <br>
+    <i>arXiv Preprint, 2026</i>.
+    <br>
+    [<a href="https://arxiv.org/pdf/2609.39403" target="_blank" rel="noopener noreferrer">PDF</a>]
+    [<a href="https://arxiv.org/abs/2609.39403" target="_blank" rel="noopener noreferrer">arXiv</a>]
+    [<a href="javascript:void(0);" onclick="showBibIronMind()">bibtex</a>]
+
+    <script>
+      function showBibIronMind() {
+        const bib = `@misc{pan2026ironmindscalinghumanoiddexterous,
+  title={IronMind: Scaling Humanoid Dexterous Manipulation via Camera-Space Ego-Centric Pretraining},
+  author={Huimin Pan and Yufan Ren and Kunpeng Song and Siyang Wang and Xiwen Zhang and Xiaoyun Hu and Zhuoxu Duan and Hanrui Zheng and Jialeng Ni and Nathan Zhao and Sibo Ma and Zhenxuan Fan and Zhongyang Che and Danny Bao and Jiacheng Wei and Jerry Bai and Xiaoyu Yue and Xiaoyang Guo and Chenyi Chen},
+  year={2026},
+  eprint={2609.39403},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO},
+  url={https://arxiv.org/abs/2609.39403}
+}`;
+        const newWindow = window.open("", "ironmind_bibtex");
+        newWindow.document.write(
+          "<pre style='font-family: monospace; padding: 20px;'>" +
+          bib +
+          "</pre>"
+        );
+      }
+    </script>
+  </td>
+</tr>
 
 <tr>
   <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
