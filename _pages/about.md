@@ -401,7 +401,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
     <p style="margin: 0 0 8px 0;">
       XPENG Robotics
       · Shenzhen
-      · June 2026 – Present
+      · Jun. 2026 – Sep. 2026
     </p>
 
     <p style="margin: 0;">
