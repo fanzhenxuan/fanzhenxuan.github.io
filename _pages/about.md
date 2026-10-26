@@ -380,6 +380,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 </table>
 
 # 🧑‍💻 Research Intern
+
 <div
   style="
     display: flex;
@@ -387,6 +388,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
     align-items: center;
     gap: 24px;
     width: 100%;
+    margin-bottom: 24px;
   "
 >
   <img
