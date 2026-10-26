@@ -408,7 +408,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 
     <p style="margin: 0 0 8px 0;">
       <a href="https://machembodied.com/">Li Auto Robotics</a>
-      · Oct. 2026 – Present
+      · Hangzhou · Oct. 2026 – Present
     </p>
 
     <p style="margin: 0;">
@@ -440,7 +440,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 
   <div style="flex: 1;">
     <h3 style="margin: 0 0 8px 0;">
-      Embodied Intelligence Algorithm Intern
+      VLA Foundation Model Intern
     </h3>
 
 
