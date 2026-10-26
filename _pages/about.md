@@ -30,13 +30,11 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 <ul>
   <li><strong style="font-family: Consolas;">[10/2026]</strong> 🚗 <b style="color: rgb(231, 165, 65);">Internship:</b> I joined <a href="https://machembodied.com/">Li Auto Robotics</a> as a Research Intern, working on Embodied Brain and VLA Models! 🤖</li>
   <!-- <li><strong style="font-family: Consolas;">[10/2026]</strong>  🏆 <b style="color: rgb(231, 165, 65);">Award:</b> I received the National Scholarship for Graduate Students! </li> -->
-  <li>
+<li>
   <strong style="font-family: Consolas;">[10/2026]</strong>
   🏆 <b style="color: rgb(231, 165, 65);">Award:</b>
   I received the
-  <strong style="color: #b7791f; background-color: #fff3cd; padding: 2px 6px; border-radius: 4px;">
-    National Scholarship for Graduate Students
-  </strong>!
+  <strong style="color: #b7791f;">National Scholarship for Graduate Students</strong>!
 </li>
   <li><strong style="font-family: Consolas;">[10/2026]</strong>  🤖 <b style="color: rgb(231, 165, 65);">Technical Report:</b> <a href="https://arxiv.org/abs/2609.39403">IronMind</a> has been released! I contributed to this work during my internship at XPENG Robotics. </li>
   <li><strong style="font-family: Consolas;">[09/2026]</strong>  🏆 <b style="color: rgb(231, 165, 65);">Award:</b> I ranked 1st in my class in the comprehensive evaluation for my first year of master's studies and received the Outstanding Graduate Student Award! </li>
