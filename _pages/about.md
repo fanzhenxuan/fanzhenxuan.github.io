@@ -28,6 +28,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
+  <li><strong style="font-family: Consolas;">[10/2026]</strong> 🚗 <b style="color: rgb(231, 165, 65);">Internship:</b> I joined <a href="https://machembodied.com/">Li Auto Robotics</a> as a Research Intern, working on Embodied Brain and VLA Models! 🤖</li>
   <li><strong style="font-family: Consolas;">[10/2026]</strong>  🏆 <b style="color: rgb(231, 165, 65);">Award:</b> I received the National Scholarship for Graduate Students! </li>
   <li><strong style="font-family: Consolas;">[10/2026]</strong>  🤖 <b style="color: rgb(231, 165, 65);">Technical Report:</b> <a href="https://arxiv.org/abs/2609.39403">IronMind</a> has been released! I contributed to this work during my internship at XPENG Robotics. </li>
   <li><strong style="font-family: Consolas;">[09/2026]</strong>  🏆 <b style="color: rgb(231, 165, 65);">Award:</b> I ranked 1st in my class in the comprehensive evaluation for my first year of master's studies and received the Outstanding Graduate Student Award! </li>
@@ -120,10 +121,9 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
   </td>
 </tr>
 
-
 <tr>
   <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-    <b>EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents.</b>
+    <b>EmbodiedSkills: World Action Model-augmented Cascaded Skills for Vision-Language-Action Agent.</b>
     <br>
     Wei Wang, Wenqiao Zhang, Yutong Lin, Yuqian Yuan, Tianwei Lin, Jinhao Mao, <u>Zhenxuan Fan</u>, Mingjian Gao, Yang Dai, Wentong Li, Zheqi Lv, Zheng Dong, Yingjie Niu, Jiaqi Zhu, Jun Xiao, Chao Li, Yueting Zhuang
     <br>
@@ -136,7 +136,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
     <script>
       function showBibEmbodiedSkills() {
         const bib = `@misc{wang2026embodiedskills,
-  title={EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying {VLA} Agents},
+  title={EmbodiedSkills: World Action Model-augmented Cascaded Skills for Vision-Language-Action Agent},
   author={Wei Wang and Wenqiao Zhang and Yutong Lin and Yuqian Yuan and Tianwei Lin and Jinhao Mao and Zhenxuan Fan and Mingjian Gao and Yang Dai and Wentong Li and Zheqi Lv and Zheng Dong and Yingjie Niu and Jiaqi Zhu and Jun Xiao and Chao Li and Yueting Zhuang},
   year={2026},
   eprint={2609.01281},
@@ -145,11 +145,12 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
   url={https://arxiv.org/abs/2609.01281}
 }`;
         const newWindow = window.open("", "embodiedskills_bibtex");
-        newWindow.document.write(
-          "<pre style='font-family: monospace; padding: 20px;'>" +
-          bib +
-          "</pre>"
-        );
+        if (!newWindow) return;
+        newWindow.document.title = "EmbodiedSkills BibTeX";
+        const pre = newWindow.document.createElement("pre");
+        pre.style.cssText = "font-family:monospace;padding:20px;white-space:pre-wrap;";
+        pre.textContent = bib;
+        newWindow.document.body.replaceChildren(pre);
       }
     </script>
   </td>
