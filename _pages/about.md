@@ -390,6 +390,43 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
   "
 >
   <img
+    src="/assets/images/li-auto.png"
+    alt="Li Auto Robotics"
+    style="
+      width: 150px;
+      height: auto;
+      object-fit: contain;
+      flex-shrink: 0;
+      margin: 0;
+    "
+  />
+
+  <div style="flex: 1;">
+    <h3 style="margin: 0 0 8px 0;">
+      Embodied Intelligence Algorithm Intern
+    </h3>
+
+    <p style="margin: 0 0 8px 0;">
+      <a href="https://machembodied.com/">Li Auto Robotics</a>
+      · Oct. 2026 – Present
+    </p>
+
+    <p style="margin: 0;">
+      Topic: Embodied Brain and VLA models.
+    </p>
+  </div>
+</div>
+
+<div
+  style="
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 24px;
+    width: 100%;
+  "
+>
+  <img
     src="/assets/images/xpeng.png"
     alt="XPENG Robotics"
     style="
