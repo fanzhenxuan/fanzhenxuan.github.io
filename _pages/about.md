@@ -8,7 +8,51 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  .archive {
+    position: relative;
+  }
 
+  .archive > .page__title {
+    padding-right: 190px;
+  }
+
+  .homepage-views {
+    position: absolute;
+    top: 8px;
+    right: 0;
+    font-size: 14px;
+    white-space: nowrap;
+  }
+
+  /* 手机端放回正常布局，避免遮挡标题 */
+  @media (max-width: 767px) {
+    .archive > .page__title {
+      padding-right: 0;
+    }
+
+    .homepage-views {
+      position: static;
+      text-align: right;
+      margin-bottom: 16px;
+    }
+  }
+</style>
+
+<div class="homepage-views">
+  <span id="busuanzi_container_site_pv" style="display: none;">
+    👀 Total views:
+    <strong
+      id="busuanzi_value_site_pv"
+      style="color: rgb(231, 165, 65);"
+    ></strong>
+  </span>
+</div>
+
+<script
+  async
+  src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"
+></script>
 **你好! / Hello! / 안녕하세요! / こんにちは! / Здравствуй! / Bonjour! / Guten Tag! / Hola! / Ciao! / السلام عليكم!**
 
 I am a second-year master's student in the [School of Software Technology](http://www.cst.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of Professor [Wenqiao Zhang](https://person.zju.edu.cn/wenqiao), and previously under the supervision of the late Professor [Beng Chin Ooi](https://ooibc88.github.io/) (Foreign Member of the Chinese Academy of Sciences and Academia Europaea; Fellow of the ACM, the IEEE, the Singapore National Academy of Science, the Singapore Academy of Engineering, and the China Computer Federation).
