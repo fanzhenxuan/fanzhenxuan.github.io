@@ -72,13 +72,17 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
-  <li>
+<li>
   <strong style="font-family: Consolas;">[11/2026]</strong>
   📜 <b style="color: rgb(231, 165, 65);">Preprint:</b>
   We released <a href="https://arxiv.org/abs/2611.27689">Embodied-Harness</a>.
   <a href="https://embodied-harness.github.io/">[Project Page]</a> 🔥🔥🔥
 </li>
-
+<li>
+  <strong style="font-family: Consolas;">[11/2026]</strong>
+  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b>
+  We released <a href="https://arxiv.org/abs/2611.09511">V-STORM</a>. 🔥🔥🔥
+</li>
   <li><strong style="font-family: Consolas;">[10/2026]</strong> 🚗 <b style="color: rgb(231, 165, 65);">Internship:</b> I joined <a href="https://machembodied.com/">Li Auto Robotics</a> as a Research Intern, working on Embodied Brain and VLA Models! 🤖</li>
   <!-- <li><strong style="font-family: Consolas;">[10/2026]</strong>  🏆 <b style="color: rgb(231, 165, 65);">Award:</b> I received the National Scholarship for Graduate Students! </li> -->
 <li>
