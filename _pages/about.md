@@ -72,6 +72,13 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
+  <li>
+  <strong style="font-family: Consolas;">[11/2026]</strong>
+  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b>
+  We released <a href="https://arxiv.org/abs/2611.27689">Embodied-Harness</a>.
+  <a href="https://embodied-harness.github.io/">[Project Page]</a> 🔥🔥🔥
+</li>
+
   <li><strong style="font-family: Consolas;">[10/2026]</strong> 🚗 <b style="color: rgb(231, 165, 65);">Internship:</b> I joined <a href="https://machembodied.com/">Li Auto Robotics</a> as a Research Intern, working on Embodied Brain and VLA Models! 🤖</li>
   <!-- <li><strong style="font-family: Consolas;">[10/2026]</strong>  🏆 <b style="color: rgb(231, 165, 65);">Award:</b> I received the National Scholarship for Graduate Students! </li> -->
 <li>
@@ -80,13 +87,7 @@ In the past, I focused on the efficient training and inference of LLMs and MLLMs
   I received the 
   <strong style="color: rgb(231, 165, 65);">National Scholarship</strong> for Graduate Students!
 </li>
-  <li>
-  <strong style="font-family: Consolas;">[11/2026]</strong>
-  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b>
-  We released <a href="https://arxiv.org/abs/2611.27689">Embodied-Harness</a>.
-  <a href="https://embodied-harness.github.io/">[Project Page]</a> 🔥🔥🔥
-</li>
-  <li><strong style="font-family: Consolas;">[10/2026]</strong>  🤖 <b style="color: rgb(231, 165, 65);">Technical Report:</b> <a href="https://arxiv.org/abs/2609.39403">IronMind</a> has been released! I contributed to this work during my internship at XPENG Robotics. </li>
+   <li><strong style="font-family: Consolas;">[10/2026]</strong>  🤖 <b style="color: rgb(231, 165, 65);">Technical Report:</b> <a href="https://arxiv.org/abs/2609.39403">IronMind</a> has been released! I contributed to this work during my internship at XPENG Robotics. </li>
   <li><strong style="font-family: Consolas;">[09/2026]</strong>  🏆 <b style="color: rgb(231, 165, 65);">Award:</b> I ranked <strong style="color: rgb(231, 165, 65);">1st</strong> in my class in the comprehensive evaluation for my first year of master's studies and received the <strong style="color: rgb(231, 165, 65);">“Five-Good” Graduate Student Award</strong>! </li>
   <li><strong style="font-family: Consolas;">[09/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> We released <a href="https://arxiv.org/abs/2609.01281">EmbodiedSkills</a>. </li>
   <!-- <li><strong style="font-family: Consolas;">[08/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">EMNLP'26:</b> <a href="https://arxiv.org/pdf/2609.05324">RoboSPA</a> has been accepted to EMNLP 2026 Oral! 🎉🎉🎉 </li>
